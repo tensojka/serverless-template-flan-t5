@@ -1,6 +1,6 @@
 
 # 🍌 Banana Serverless
-
+trigger
 This repo is a template for using Flan-T5 on Banana's serverless GPU platform. Ready to be used for 1-Click deploy
 
 # Quickstart
